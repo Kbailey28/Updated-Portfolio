@@ -1,0 +1,88 @@
+html{
+    height:100%;
+    width:100%;
+    font-family: 'PT Serif', serif;
+}
+body{
+    height:100%;
+    width:100%;
+    font-family: 'PT Serif', serif;
+}
+.NavImage {
+    height: 75px;
+    width: 100px;
+}
+.carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.padding {
+    padding-bottom: 2rem;
+}
+.welcome {
+    padding-top: 2rem;
+}
+.welcome hr {
+    border-top: 2px solid rgb(107, 104, 104);
+    width: 90%;
+    margin-bottom: 2rem;
+}
+
+.fa-code {
+    color: rgb(231, 154, 10);
+    font-size: 4em;
+    margin: 1rem;
+}
+.fa-css3 {
+    color: rgb(31, 31, 180);
+    font-size: 4em;
+    margin: 1rem;
+}
+.fa-js {
+    color: rgb(233, 233, 14);
+    font-size: 4em;
+    margin: 1rem;
+}
+.ourProjects {
+    width: 100%;
+}
+
+.screenshot {
+   max-width: 100%;
+   padding-top: 2rem;
+}
+
+.fa-linkedin {
+    font-size: 3em;
+    margin: 1rem;
+}
+.fa-github {
+    font-size: 3em;
+    color: rgb(0, 0, 0);
+    margin: 1rem;
+}
+
+footer {
+    padding-top: 2rem;
+    background-color: rgb(139, 136, 136);
+    color: rgb(247, 244, 244);
+}
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+
+
+
